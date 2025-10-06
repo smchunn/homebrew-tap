@@ -1,0 +1,28 @@
+cask "font-iosevka-sc" do
+  version "33.3.1"
+  sha256 "bb8450b6f0d6b6a9688f540b5ee16770327aae9bf5d34f7d74c37cb0caa72a88"
+
+  url "https://github.com/smchunn/iosevka-sc/releases/download/v33.3.1/iosevka-sc-v33.3.1.tar.gz"
+  name "iosevka-sc"
+  desc "iosevka-sc custom build patched with Nerd Fonts"
+  homepage "https://github.com/smchunn/iosevka-sc"
+
+  font "IosevkaScNerdFont-Bold.ttf"
+  font "IosevkaScNerdFont-BoldItalic.ttf"
+  font "IosevkaScNerdFont-BoldOblique.ttf"
+  font "IosevkaScNerdFont-Extended.ttf"
+  font "IosevkaScNerdFont-ExtendedBold.ttf"
+  font "IosevkaScNerdFont-ExtendedBoldItalic.ttf"
+  font "IosevkaScNerdFont-ExtendedBoldOblique.ttf"
+  font "IosevkaScNerdFont-ExtendedItalic.ttf"
+  font "IosevkaScNerdFont-ExtendedLight.ttf"
+  font "IosevkaScNerdFont-ExtendedLightItalic.ttf"
+  font "IosevkaScNerdFont-ExtendedLightOblique.ttf"
+  font "IosevkaScNerdFont-ExtendedOblique.ttf"
+  font "IosevkaScNerdFont-Italic.ttf"
+  font "IosevkaScNerdFont-Light.ttf"
+  font "IosevkaScNerdFont-LightItalic.ttf"
+  font "IosevkaScNerdFont-LightOblique.ttf"
+  font "IosevkaScNerdFont-Oblique.ttf"
+  font "IosevkaScNerdFont-Regular.ttf"
+end
