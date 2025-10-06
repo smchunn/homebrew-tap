@@ -7,5 +7,21 @@ cask "font-iosevka-sc-nerd-font" do
   desc "iosevka-scnf custom build patched with Nerd Fonts"
   homepage "https://github.com/smchunn/iosevka-sc"
 
-  font "*.ttf"
-end
+  font "IosevkaScnfNerdFont-Bold.ttf"
+  font "IosevkaScnfNerdFont-BoldItalic.ttf"
+  font "IosevkaScnfNerdFont-BoldOblique.ttf"
+  font "IosevkaScnfNerdFont-Extended.ttf"
+  font "IosevkaScnfNerdFont-ExtendedBold.ttf"
+  font "IosevkaScnfNerdFont-ExtendedBoldItalic.ttf"
+  font "IosevkaScnfNerdFont-ExtendedBoldOblique.ttf"
+  font "IosevkaScnfNerdFont-ExtendedItalic.ttf"
+  font "IosevkaScnfNerdFont-ExtendedLight.ttf"
+  font "IosevkaScnfNerdFont-ExtendedLightItalic.ttf"
+  font "IosevkaScnfNerdFont-ExtendedLightOblique.ttf"
+  font "IosevkaScnfNerdFont-ExtendedOblique.ttf"
+  font "IosevkaScnfNerdFont-Italic.ttf"
+  font "IosevkaScnfNerdFont-Light.ttf"
+  font "IosevkaScnfNerdFont-LightItalic.ttf"
+  font "IosevkaScnfNerdFont-LightOblique.ttf"
+  font "IosevkaScnfNerdFont-Oblique.ttf"
+  font "IosevkaScnfNerdFont-Regular.ttf"end
