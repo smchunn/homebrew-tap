@@ -1,6 +1,6 @@
 cask "font-iosevka-sc" do
   version "33.3.1"
-  sha256 "a4410cdbf073e6510633d8d1b302b8fe43b4aed1056c69fd02cb96208445a353"
+  sha256 "60a20ebe15842c94a310869440e4db44431bfb4db0fbfd43bb5456f56bbbfad9"
 
   url "https://github.com/smchunn/iosevka-sc/releases/download/v33.3.1/iosevka-sc-v33.3.1.tar.gz"
   name "iosevka-sc"
