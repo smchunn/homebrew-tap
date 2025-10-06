@@ -24,4 +24,5 @@ cask "font-iosevka-sc-nerd-font" do
   font "IosevkaScnfNerdFont-LightItalic.ttf"
   font "IosevkaScnfNerdFont-LightOblique.ttf"
   font "IosevkaScnfNerdFont-Oblique.ttf"
-  font "IosevkaScnfNerdFont-Regular.ttf"end
+  font "IosevkaScnfNerdFont-Regular.ttf"
+end
