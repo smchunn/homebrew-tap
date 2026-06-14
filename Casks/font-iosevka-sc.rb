@@ -1,8 +1,8 @@
 cask "font-iosevka-sc" do
-  version "34.6.1"
-  sha256 "a73db4d58ecc376b77d4ae2af3384442a3d0c1f7b5979f54b9a5594c8008f1e0"
+  version "34.6.3"
+  sha256 "3b6764154df460cab7b75544719dcdccd0b66cf6e2a006e4534344d9466b0ab2"
 
-  url "https://github.com/smchunn/iosevka-sc/releases/download/v34.6.1/iosevka-sc-v34.6.1.tar.gz"
+  url "https://github.com/smchunn/iosevka-sc/releases/download/v34.6.3/iosevka-sc-v34.6.3.tar.gz"
   name "iosevka-sc"
   desc "Custom build of Iosevka"
   homepage "https://github.com/smchunn/iosevka-sc"
